@@ -1,0 +1,46 @@
+body {
+    background-color: #f1f3f2;
+    font-family: 'Mouse Memoirs', sans-serif;
+  }
+  .background-logo {
+    width: 500px;
+    height: 500px;
+    margin-left: 350px;
+  }
+  h1,h2,p{
+    text-align: center;
+  }
+  li{
+    list-style-type: none;
+  }
+  li a{
+    text-decoration: none;
+    color: #4A1716;
+    letter-spacing: 2px;
+    text-align: center;
+  }
+  img{
+    margin-left: 430px;
+  }
+p{
+    font-size: 18px;
+    border-bottom: 3px solid #4A1716;
+    border-left: 3px solid#4A1716; ;
+    border-right: 3px solid #4A1716;;
+    border-radius: 10px;
+}
+a:hover{
+    color: orange;
+}
+
+footer{
+    margin-top: 100px;
+}
+.back-img{
+    margin-left: 0px
+}
+.info{
+    text-align: left;
+    border: none;
+}
+
